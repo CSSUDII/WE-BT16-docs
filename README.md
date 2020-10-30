@@ -1,2 +1,6 @@
-# WE-BT16-docs
-The docs repo for we-bt16 discord bot
+---
+description: The main page for these docs.
+---
+
+# WE-BT16 Bot
+
