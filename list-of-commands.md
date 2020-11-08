@@ -1,3 +1,7 @@
+---
+description: The List of Commands for the bot
+---
+
 # List of commands
 
 ### Here is the List of commands:

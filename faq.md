@@ -1,3 +1,7 @@
+---
+description: Not Really Maintained...
+---
+
 # FAQ
 
 ## How to I install this bot?
