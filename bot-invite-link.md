@@ -1,4 +1,4 @@
-# Bot-Invite-Link
+# Bot Invite Link
 
 Here is the bot Invite Link:
 

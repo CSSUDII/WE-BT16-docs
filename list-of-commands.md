@@ -1,4 +1,4 @@
-# List-of-Commands
+# List of Commands
 
 Here is a full list of the bots Commands:
 

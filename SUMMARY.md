@@ -5,7 +5,7 @@
 * [WE-BT16 Wiki](summary.md.md)
 * [Troubleshooting](troubleshooting.md)
 * [How to Report Issues](reporting-issues.md)
-* [Bot-Invite-Link](bot-invite-link.md)
+* [Bot Invite Link](bot-invite-link.md)
 * [FAQ](faq.md)
-* [List-of-Commands](list-of-commands.md)
+* [List of Commands](list-of-commands.md)
 
