@@ -12,15 +12,21 @@ Here is a full list of the bots Commands:
 * avatar \(shows your or someones avatar\)
 * random \(shows a random number\)
 * lag \(sends laggggggggg\)
-* echo \(echos the input text\)
+* echo \(echos the input text\) \(Owner Only\)
+* Restart \(Restrts the bot\) \(Owner Only\)
 * uptime \(gets bot uptime\)
 * info \(gets bot info\)
 * random.floor \(shows a random rounded number\)
 * clear \(Usage: ;clear \[amount of messages\]
+* mute \(mutes someone\)
+* unmute \(unmutes someone\)
+* text-flip
+* More Comming Soon, if you find this to be outdated please say so in the support server.
+* Warn \(Warns A user\)
 
 ## Removed Commands
 
-* warn \(warns a user\)
+None
 
 ## Coming Soon Commands
 
