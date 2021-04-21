@@ -1,23 +1,16 @@
-# Home
+# WE-BT16 Docs
 
-#### \*\*Note\*\* If you want a more updated Wiki See the GitHub Wiki: [https://github.com/CSSUDII/WE-BT16-docs/wiki](https://github.com/CSSUDII/WE-BT16-docs/wiki)
-
-Welcome to the WE-BT16 wiki!
-
-This Wiki is basically the public editable version of the the bots main docs.
+The Docs for WE-BT16
 
 ## Support Discord Server
 
-Join the [Discord Support Server](https://discord.gg/cKmAyD8h7B)
+Join the [Discord Support Server](https://discord.gg/cKmAyD8h7B), there you can get help, report bugs, and more
 
-### Table Of Contents
+### GitHub Wiki
 
-* A List of Known Issues 
-* Troubleshooting
-* How to Report Issues
-* Bot Invite Link
-* FAQ
-* List of Commands
+{% hint style="info" %}
+This Docs Page will is replacing the GitHub Wiki
+{% endhint %}
 
-
+Link to the GitHub Wiki: [https://github.com/CSSUDII/WE-BT16-docs/wiki](https://github.com/CSSUDII/WE-BT16-docs/wiki)
 

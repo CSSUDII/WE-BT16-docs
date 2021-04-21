@@ -1,12 +1,12 @@
-# Bot Invite Link
+---
+description: The Invite Link for WE-BT16
+---
 
-Here is the bot Invite Link:
+# Invite Link
 
-## Top.gg
+## Invite Links:
 
-Coming soon!
-
-## Website Invite Link
-
-[Link to Website](https://we-bt16.netlify.app/)
+No Perms: [Link](%20https://discord.com/api/oauth2/authorize?client_id=771261872426582016&permissions=0&scope=bot) \(Will not generate a WE-BT16 Role in your Server\)  
+Recommenced Perms: [Link](https://discord.com/api/oauth2/authorize?client_id=771261872426582016&permissions=1812462839&scope=bot)  
+Admin Perms: [Link](https://discord.com/api/oauth2/authorize?client_id=771261872426582016&permissions=8&scope=bot)
 

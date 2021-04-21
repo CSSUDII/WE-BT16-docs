@@ -1,12 +1,12 @@
 # FAQ
 
-Frequently asked Questions
+## How do I use the Bot
 
-## I need help with something that is not listed in this wiki?
+Start by running the `;help` command to view all the current commands.
 
-Please Join our Discord Support Server, post your question in the support channel.
+## How do I use the API
 
-## What dose this bot do?
+Check the API Docs
 
-See the List Of Commands Page in this Wiki.
+
 
