@@ -1,8 +1,8 @@
 ---
-description: A Moderation and Utilities Discord Bot
+description: 'WE-BT16, A Moderation and Utilities Discord Bot'
 ---
 
-# WE-BT16 Docs
+# Welcome
 
 The Docs for WE-BT16
 
