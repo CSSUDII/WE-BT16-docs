@@ -1,5 +1,5 @@
 ---
-description: Links fro WE-BT16
+description: Links for WE-BT16
 ---
 
 # Links
