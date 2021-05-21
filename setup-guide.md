@@ -36,6 +36,28 @@ You can set a new Mute Role \(Role to add when you mute someone\) with one basic
 {% endtab %}
 {% endtabs %}
 
+## Custom Commands
+
+{% hint style="info" %}
+Custom Commands are still in Beta, and may not work 100% of the time
+{% endhint %}
+
+To set a new custom command run the following command
+
+```text
+;addcmd <custom command name> <reply to do when the custom command is run>
+```
+
+To Remove a command run the following
+
+{% hint style="info" %}
+You can only remove a custom command that you have added into your guild
+{% endhint %}
+
+```text
+;delcmd <command name>
+```
+
 > WE-BT16 is being updated, Check the Support Server for more Info, Custom Commands may not be supported at the start of the update.
 
 

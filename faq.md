@@ -4,7 +4,9 @@
 
 Start by running the `;help` command to view all the current commands.
 
-## The Bot is not working
+## How do I use the API
 
-Try running @WE-BT16 prefix to find your Guilds Prefix, or report to the Support Server
+Check the API Docs
+
+
 
