@@ -7,7 +7,3 @@
 * [Setup Guide](setup-guide.md)
 * [Chnagelog](chnagelog.md)
 
-## API Docs <a id="api"></a>
-
-* [Placeholder API](api/placeholder-api.md)
-
