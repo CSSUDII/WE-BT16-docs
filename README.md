@@ -2,7 +2,7 @@
 description: 'WE-BT16, A Moderation and Utilities Discord Bot'
 ---
 
-# Welcome
+# Welcome!
 
 The Docs for WE-BT16
 
